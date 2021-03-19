@@ -2,5 +2,7 @@ Welcome to my kitchen!!!
 1)Pizza 
 2)Pasta
 3)Chicken Curry
+4)Beans
+5)Sandwich
 
 Thank you!!
